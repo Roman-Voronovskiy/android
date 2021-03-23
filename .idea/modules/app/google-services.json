@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "856636322435",
+    "firebase_url": "https://diplomandroid.firebaseio.com",
+    "project_id": "diplomandroid",
+    "storage_bucket": "diplomandroid.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856636322435:android:9bf67f01985b81e80461b6",
+        "android_client_info": {
+          "package_name": "com.example.main_activity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856636322435-fgqavofiavj61irefa1c7uspfj9h75tv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.main_activity",
+            "certificate_hash": "cf99ad676d30c41d9a0e6c4696ea131d011de5d7"
+          }
+        },
+        {
+          "client_id": "856636322435-lgefsnrltq10uga9n20fdi32ahr4p3eq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiLrWn7p80YodNis2I5mc16nDnR73gBAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856636322435-lgefsnrltq10uga9n20fdi32ahr4p3eq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Main_Activity</string>
+    <string name="app_in_name">Medical Sypports</string>
+    <string name="app_name_after">Register App</string>
+    <string name="app_text_bottom">Войдите в учетную запись</string>
+    <string name="ButtonSignIn">Войти</string>
+    <string name="ButtonRegister">Регистрация</string>
+    <string name="title_activity_date_input_window">ScrollingActivity</string>
+    <string name="recommends">Введите данные, полученные после сдачи анализов.</string>
+    <string name="action_settings">Settings</string>
+    <string name="par1">Липаза КР:</string>
+    <string name="par2">Амилаза КР:</string>
+    <string name="par3">ЩФ КР:</string>
+    <string name="par4">ПГ 1 КР:</string>
+    <string name="par5">ПГ 2 КР:</string>
+    <string name="par6">Липаза СЖ:</string>
+    <string name="par7">Амилаза СЖ:</string>
+    <string name="par8">ЩФ СЖ:</string>
+    <string name="par9">ПГ 1 СЖ:</string>
+    <string name="par10">ПГ 2 СЖ:</string>
+    <string name="par11">Кластер 3 по СЖ:</string>
+    <string name="result">Получить Результат!</string>
+</resources>

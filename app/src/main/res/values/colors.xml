@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="text_bottom">#25d9ac</color>
+    <color name="repple_eggect">#05ab81</color>
+    <color name="color_button_sign_in">#78dec4</color>
+    <color name="color_button_sign_in_stroke">#06634c</color>
+    <color name="color_button_register">#78dec4</color>
+    <color name="color_button_register_stroke">#06634c</color>
+</resources>
